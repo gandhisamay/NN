@@ -10,4 +10,4 @@ I have made class NN which I used to classifiy the inputs to 1 or 0 where 1 sign
 
 ## Result
 The accuracy of the model is 90 %
-
+![](https://github.com/gandhisamay/NN/blob/main/Images/Loss.png)
