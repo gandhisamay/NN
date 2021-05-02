@@ -1,5 +1,5 @@
 # Neural Network
-Neural Networks are complex networks which try to figure out the relationship between input features and the output desired.Initially they are defined with some random values and thus have some random relatioship but after updating the parameters the model gets better and better and we get close to exact relationship between the input features and outputs
+Neural Networks are complex networks which try to figure out the relationship between input features and the output desired.Initially they are defined with some random values and thus have some random relationship but after updating the parameters the model gets better and better and we get close to exact relationship between the input features and outputs
 
 # Overview
 Here, I have made a neural network from scratch predicting the probability that a student might be a researcher or not based on the [**Graduates Admssion Dataset**](https://www.kaggle.com/mohansacharya/graduate-admissions) available on [**Kaggle**](https://www.kaggle.com/).
