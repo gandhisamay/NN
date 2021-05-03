@@ -9,4 +9,5 @@ Since the dataset is very small and I have made it from scratch without using an
 I have made class NN which I used to classifiy the inputs to 1 or 0 where 1 signifies that the student pursued research and other way round for 0
 
 ## Result
-The loss decreases with every passing epoch and the accuracy of the model reaches to 90 %
+The loss decreases with every passing epoch and the accuracy of the model reaches to 90 %. Coincidently,in this case the loss decreases linearly with every passing epoch as it can be seen from the graph obtained.
+[](https://github.com/gandhisamay/Research-Predictor/blob/main/Images/Graph_Loss_with_iterations.png)
