@@ -10,4 +10,5 @@ I have made class NN which I used to classifiy the inputs to 1 or 0 where 1 sign
 
 ## Result
 The loss decreases with every passing epoch and the accuracy of the model reaches to 90 %. Coincidently,in this case the loss decreases linearly with every passing epoch as it can be seen from the graph obtained.
+
 ![**Loss graph**](https://github.com/gandhisamay/Research-Predictor/blob/main/Images/Graph_Loss_with_iterations.png)
